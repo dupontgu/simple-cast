@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VinylCast2</string>
+    <string name="stream_location_hint">http://[stream.url]:[port]/[stream-name]</string>
+</resources>
